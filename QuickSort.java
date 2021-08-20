@@ -37,6 +37,7 @@ public class QuickSort {
     public static void main(String[] args) {
         int a[] = new int[100000];
         Scanner in = new Scanner(System.in);
+        in.close();
         Random rand = new Random();
         QS q = new QS();
         long start, end;
@@ -56,5 +57,5 @@ public class QuickSort {
         System.out.println("The time taken to sort is " + (end - start) + "ns");
 
     }
-   
+
 }
