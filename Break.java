@@ -7,5 +7,4 @@ public class Break {
             System.out.println("value is" + i);
         }
     }
-
 }
