@@ -1,4 +1,3 @@
-package labprograms;
 class staff{	
 	private int Staffid;
 	private String Name;

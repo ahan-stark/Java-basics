@@ -1,7 +1,4 @@
-package labprograms;
-
 import java.util.Scanner;
-
 class Student{
 	private String USN;
 	private String Name;

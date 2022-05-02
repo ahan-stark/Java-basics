@@ -1,5 +1,3 @@
-package labprograms;
-
 import java.util.Scanner;
 class Stack{
 	private int cap=3;
